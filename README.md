@@ -2,7 +2,7 @@
 
 A web-based application that converts speech to text using OpenAI's Whisper model. This Flask-powered application provides an intuitive interface for audio transcription with real-time processing and detailed metadata output.
 
-![Frontend Interface](screenshots/frontend.png)
+![Frontend Interface](screenshot/frontend.png)
 
 ## Features
 
