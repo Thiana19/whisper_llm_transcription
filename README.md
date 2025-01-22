@@ -25,3 +25,6 @@ A web-based application that converts speech to text using OpenAI's Whisper mode
 2. Install the requirements:
 ```python
 pip install -r requirements.txt
+
+## Screenshot
+![Frontend Interface](screenshots/frontend.png)
